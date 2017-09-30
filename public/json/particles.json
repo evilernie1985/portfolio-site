@@ -1,0 +1,21 @@
+{
+  "particles": {
+    "number": {
+      "value": 120,
+      "density": "enable",
+      "color": ""
+    },
+    "color": {
+      "value": "fff"
+    },
+    "shape": {
+      "type": "stroke",
+      "polygon": ""
+    },
+    "move": {
+      "enable": "true",
+      "speed": 4,
+      "direction": "right"
+    }
+  }
+}

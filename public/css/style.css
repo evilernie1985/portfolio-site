@@ -1,4 +1,13 @@
-#particles-js{
+/*#particles-js{
   background: #c91818;
   height: 400px;
+}*/
+
+body {
+  margin: 0;
+}
+
+#canvas {
+  border: 1px solid black;
+  background: red;
 }

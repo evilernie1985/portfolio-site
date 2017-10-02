@@ -3,11 +3,36 @@
   height: 400px;
 }*/
 
-body {
-  margin: 0;
-}
+/*.container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+ }*/
+ body {
+   margin:0;
+ }
 
 #canvas {
-  border: 1px solid black;
-  background: red;
+  background: black;
+  position: absolute;
+}
+
+#logo {
+  color: white;
+  font-size: 80px;
+  position: fixed;
+  top: 50%;
+  right: 40%;
+  margin-top: -50px;
+}
+
+#title {
+  color: white;
+  position: fixed;
+  top: 60%;
+  right: 40%;
+  margin-top: -50px;
+  margin-right: 5px;
+
 }
